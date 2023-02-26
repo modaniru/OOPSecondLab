@@ -42,6 +42,14 @@
 //    return isSick;
 //}
 //
+//class Cat: public Animal{
+//public:
+//    Cat(){
+//        isSick = false; // имею доступ к этому полю
+//        //name = "sda" // нет доступа, из-за private
+//    }
+//};
+//
 //int main() {
 //    {
 //        Animal animal;
